@@ -1,3 +1,5 @@
 /**/build_*
 /**/*.pyc
 .sconsign.dblite
+tools/SifliTrace/log
+tools/SifliTrace/SifliTrace.ini
