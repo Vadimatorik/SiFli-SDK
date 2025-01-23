@@ -502,6 +502,7 @@ typedef enum IRQn
 #define hwp_ptc1        ((PTC_TypeDef           *)    PTC1_BASE)
 #define hwp_ptc2        ((PTC_TypeDef           *)    PTC2_BASE)
 #define hwp_ezip1       ((EZIP_TypeDef          *)    EZIP1_BASE)
+#define hwp_ezip       ((EZIP_TypeDef          *)    EZIP1_BASE)
 #define hwp_efusec      ((EFUSEC_TypeDef        *)    EFUSEC_BASE)
 #define hwp_rtc         ((RTC_TypeDef           *)    RTC_BASE)
 #define hwp_pmuc        ((PMUC_TypeDef          *)    PMUC_BASE)
