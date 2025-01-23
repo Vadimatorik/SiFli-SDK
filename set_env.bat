@@ -11,7 +11,7 @@ set RTT_CC=keil
 if "%REG_KEIL_PATH%" NEQ "" (
     set RTT_EXEC_PATH=%REG_KEIL_PATH%
 ) else (
-    set RTT_EXEC_PATH=C:/Keil_v5
+    set RTT_EXEC_PATH=C:\Keil_v5_32
 )    
 
 if "%1"=="gcc" goto :SET_GCC
